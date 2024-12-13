@@ -4,3 +4,7 @@ ADVANCE AUSTRALIA FAIR
 Buraidah
 Menna
 A جندي Be Soldier
+-----------------
+DAX function reference
+https://learn.microsoft.com/en-us/dax/dax-function-reference
+------------------
